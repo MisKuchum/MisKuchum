@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Кучумов+Михаил+Юрьевич)](https://git.io/typing-svg)
 
+- 📫 Студент НГТУ им. Р.Е. Алексеева
+- 💻 Python, C++, C#, Java
+- 📞 +7-902-685-59-68 (WhatsApp, Viber, Telegram)
 <!--
 **MisKuchum/MisKuchum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
