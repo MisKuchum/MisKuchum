@@ -3,6 +3,7 @@
 - 📫 Студент НГТУ им. Р.Е. Алексеева
 - 💻 Python, C++, C#, Java
 - 📞 +7-902-685-59-68 (WhatsApp, Viber, Telegram)
+- 📧 MisKuchum@gmail.com
 <!--
 **MisKuchum/MisKuchum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
